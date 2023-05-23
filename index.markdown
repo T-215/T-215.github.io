@@ -4,4 +4,3 @@
 
 layout: home
 ---
-Notes template: [Template.zip](https://github.com/T-215/NotesTemplate/archive/refs/tags/NotesV1.zip)
