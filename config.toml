@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'T-215'
-theme = "congo"
+theme = 'congo'
