@@ -1,0 +1,10 @@
+
+[[main]]
+  name = "Help"
+  pageRef = "help"
+  weight = 10
+
+[[main]]
+  name = "Topics"
+  pageRef = "topics"
+  weight = 20
